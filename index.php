@@ -55,7 +55,7 @@
 				<div class="card animation-div card-last">
 					<div class="card-container">
 						<h4>School of Agriculture</h4>
-						<i class="fi fi-rr-user"></i>
+						<i class="fi fi-rr-book"></i>
 						<p>Educating the youth about agriculture.</p>
 						<a href="SchoolAl.php" class="Readmore">Read More</a>
 					</div>

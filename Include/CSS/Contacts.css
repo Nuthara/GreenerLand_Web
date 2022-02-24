@@ -62,11 +62,10 @@
           max-width:100%; 
           margin:4rem;
 }
-
 .OpenTime{
-font-weight:bold;
- color:#e43509;
-}
+    font-weight:bold;
+     color:#e43509;
+    }
 
       
 button[type=submit]:hover {
